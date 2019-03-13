@@ -8,11 +8,15 @@ Venez vous perfectionner et maîtrisez les subtilités d'Angular lors de cette f
 
 ## DESCRIPTION
 
-**Angular** est un framework de développement d'applications web porté par Google. Sans doute le plus polyvalent et le plus complet des frameworks actuels, il offre une expérience de développement sans comparaison. Durant cette formation, nous plongerons dans les concepts avancés (zones, lazy loading, i18n strategies, ...) d'Angular et découvrirons son écosystème (RxJS, @ngrx, material, PWA, ...). La formation Angular porte sur la dernière version majeure du framework de Google (Angular 7).
+**Angular** est un framework de développement d'applications web porté par Google. Sans doute le plus polyvalent et le plus complet des frameworks actuels, il offre une expérience de développement sans comparaison. 
 
-Cette formation est destinée à des développeur·se·s ayant déjà pratiqué le framework sur un projet et souhaitant comprendre le rôle des mécanismes internes du framework. L'objectif étant également de structurer le tout à travers un ensemble de bonnes pratiques, de retours d'expérience et de tips afin de rendre les applications réalisées maintenables et évolutives.
+Durant cette formation Angular Avancé, nous plongerons dans les concepts avancés (zones, lazy loading, i18n strategies, ...) d'Angular et découvrirons son écosystème (RxJS, @ngrx, material, PWA, ...). Cette formation porte sur la dernière version majeure du framework de Google (Angular 7).
 
-La formation se composera d'une alternance de théorie et de pratique permettant à chacun des participants de produire une application Angular sur la base d'une API REST existante. L'application réalisée par chaque participant sur ces 3 jours étant opérationnelle, elle pourra servir de modèle pour leurs projets à venir.
+Cette formation Angular Avancé est destinée à des **développeur·se·s ayant déjà pratiqué le framework sur un projet** et souhaitant comprendre le rôle des mécanismes internes du framework. L'objectif est également de structurer le tout à travers un ensemble de bonnes pratiques, de retours d'expérience et de tips afin de rendre les applications réalisées maintenables et évolutives.
+
+Si vous débutez avec le framework Angular, jetez un oeil à notre [formation Angular](https://www.humancoders.com/formations/angular) !
+
+La formation, orientée pratique, permettra à chacun des participant·e·s de produire une application Angular sur la base d'une API REST existante. L'application réalisée étant opérationnelle, elle pourra servir de modèle pour leurs projets à venir.
 
 ## Les objectifs
 
@@ -114,7 +118,7 @@ La formation se composera d'une alternance de théorie et de pratique permettant
 
 ### Benjamin Barbier
 
-Benjamin est développeur, spécialisé dans les technologies du web depuis 2009. Il a avant ça évolué quelques années dans le monde Java avant de basculer vers le monde du javascript et d'AngularJS en 2012 avec la version bêta du framework. Benjamin a également été professeur de développement web pendant 3 ans à l'université de Lille 2 avant de fonder en 2014, avec 3 des membres de son équipe projet Symbol-IT. Sa société de conseil en informatique est spécialisée dans les développements fronts avec des frameworks comme Angular ou Vue.js ainsi que dans le devops. Aujourd'hui, Benjamin intervient principalement chez ses clients en tant que tech-lead pour les accompagner sur Angular en amenant le recul et les bonnes pratiques que ses années d'expérience ont pu lui apporter.
+Benjamin est développeur, spécialisé dans les technologies du web depuis 2009. Il a avant cela évolué quelques années dans le monde Java avant de basculer vers le monde du JavaScript et d'AngularJS en 2012 avec la version bêta du framework. Benjamin a également été professeur de développement web pendant 3 ans à l'université de Lille 2 avant de fonder en 2014, avec 3 des membres de son équipe projet Symbol-IT. Sa société de conseil en informatique est spécialisée dans les développements fronts avec des frameworks comme Angular ou Vue.js ainsi que dans le devops. Aujourd'hui, Benjamin intervient principalement chez ses clients en tant que tech-lead pour les accompagner sur Angular en amenant le recul et les bonnes pratiques que ses années d'expérience ont pu lui apporter.
 
 ## Suivi de formation en option
 
