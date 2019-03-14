@@ -12,7 +12,7 @@ La formation Angular porte sur la dernière version majeure du framework de Goog
 
 Cette version s'appuie sur des concepts et outils ultra modernes tels que ES2015, TypeScript, les Web Components et la programmation réactive.
 
-Dans cette formation Angular, vous apprendrez les notions de base et les bonnes pratiques pour créer vos propres composants Angular et produire des applications robustes et efficaces. Nous mettrons également l'accent sur les aspects réactifs et fonctionnels de ce framework à travers la (librairie RxJS)[https://angular.io/guide/rx-library].
+Dans cette formation Angular, vous apprendrez les notions de base et les bonnes pratiques pour créer vos propres composants Angular et produire des applications robustes et efficaces. Nous mettrons également l'accent sur les aspects réactifs et fonctionnels de ce framework à travers la [librairie RxJS](https://angular.io/guide/rx-library).
 
 Cette formation Angular est destinée à des **développeur·se·s familiers avec le web et JavaScript** qui souhaitent apprendre à développer des applications Angular. Le tout, en respectant un ensemble de bonnes pratiques, de retours d'expérience et de conseils afin de rendre les applications réalisées maintenables et évolutives.
 
@@ -21,7 +21,7 @@ La formation est découpée entre des moments de théorie et de pratique pour pe
 ## Les objectifs
 
 * Appréhender la philosophie et le fonctionnement du framework Angular
-* Concevoir une application Angular avec (TypeScript)[https://www.typescriptlang.org/] et (RxJS)[https://angular.io/guide/rx-library]
+* Concevoir une application Angular avec [TypeScript](https://www.typescriptlang.org/) et [RxJS](https://angular.io/guide/rx-library)
 * Créer vos propres composants Angular
 * Produire des applications robustes et efficaces
 
