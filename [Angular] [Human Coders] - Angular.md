@@ -63,7 +63,7 @@ La formation est découpée entre des moments de théorie et de pratique pour pe
 #### Reactive Programming
 
 * Concept
-* RxJS : Approche appronfondie d'un framework au coeur d'Angular
+* RxJS : Approche approfondie d'un framework au coeur d'Angular
 
 #### Services
 
